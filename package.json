@@ -1,0 +1,19 @@
+{
+  "name": "@petermader/hello-world-module",
+  "version": "1.0.0",
+  "description": "A simple npm module that will print \"Hello World\" in the console.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeterMader/hello-world-module.git"
+  },
+  "author": "Peter Mader",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PeterMader/hello-world-module/issues"
+  },
+  "homepage": "https://github.com/PeterMader/hello-world-module#readme"
+}
